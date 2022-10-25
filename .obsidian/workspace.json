@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "d1c0b4fbdaf2f88a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb1523a978a4dcac",
+        "type": "tabs",
+        "dimension": 37.93565683646112,
+        "children": [
+          {
+            "id": "e2e7956ffa234dd1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FIS-2/LivroProblemas_2017-2018.pdf"
+              }
+            }
+          },
+          {
+            "id": "dff45762ef01f9a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FIS-2/Aula prática.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a19c586a2e3b9ef0",
+        "type": "tabs",
+        "dimension": 62.06434316353887,
+        "children": [
+          {
+            "id": "bfc96722fe04a3b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FIS-2/LivroProblemas_2017-2018.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38093ce65f2032f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4032892d71ec41c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2536b4d8d1b63bba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53722e93aa551102",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c58fca0141c7f17b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "810e966bef11ba51",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d9d39d5222e39db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee20233dc9aa7315",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FIS-2/Aula prática.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2f62c0856f980aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FIS-2/Aula prática.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06effdf8822c3a51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c3fa0fc10154fed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FIS-2/Aula prática.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "dff45762ef01f9a9",
+  "lastOpenFiles": [
+    "FIS-2/LivroProblemas_2017-2018.pdf",
+    "FIS-2/Aula prática.md"
+  ]
+}
