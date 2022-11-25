@@ -4,51 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "cb1523a978a4dcac",
+        "id": "cdb3b40e3bf861a9",
         "type": "tabs",
-        "dimension": 37.93565683646112,
         "children": [
           {
-            "id": "e2e7956ffa234dd1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FIS-2/LivroProblemas_2017-2018.pdf"
-              }
-            }
-          },
-          {
-            "id": "dff45762ef01f9a9",
+            "id": "dca3c6720cee26ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FIS-2/Aula prática.md",
+                "file": "SO/Programar  com Ficheiros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8299dd8beda14ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASA/Teorema Mestre - Divide & Conquer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a59362493d846d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASA/Amontoados - Heapsort.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "a19c586a2e3b9ef0",
-        "type": "tabs",
-        "dimension": 62.06434316353887,
-        "children": [
-          {
-            "id": "bfc96722fe04a3b2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FIS-2/LivroProblemas_2017-2018.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#system-call",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "810e966bef11ba51",
@@ -115,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FIS-2/Aula prática.md",
+                "file": "ASA/Amontoados - Heapsort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FIS-2/Aula prática.md",
+                "file": "ASA/Amontoados - Heapsort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FIS-2/Aula prática.md"
+                "file": "ASA/Amontoados - Heapsort.md"
               }
             }
           }
@@ -166,12 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "dff45762ef01f9a9",
+  "active": "7a59362493d846d5",
   "lastOpenFiles": [
-    "FIS-2/LivroProblemas_2017-2018.pdf",
+    "ASA/Teorema Mestre - Divide & Conquer.md",
+    "SO/Sistema de Ficheiros.md",
+    "SO/Programar  com Ficheiros.md",
+    "SO/Funções de Sistema.md",
+    "gist.github.com/jboner/2841832.md",
+    "ASA/Coletânea/Exercicio 1.md",
+    "ASA/Coletânea/colectanea.pdf",
+    "ASA/Aula 1 - 22 nov/Notações.md",
+    "ASA/Aula 1 - 22 nov/p0.pdf",
     "FIS-2/Aula prática.md"
   ]
 }
