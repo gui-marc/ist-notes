@@ -6,12 +6,12 @@ $C = A \times B$
 
 Posso multiplicar as matrizes em blocos (sub-matrizes)
 
-$$\begin{vmatrix}c11 & c12\\
-c21 & c22
-\end{vmatrix}= \begin{vmatrix}a11 & a12\\ 
-a21 & a22
-\end{vmatrix} \times \begin{vmatrix}b11 & b12\\
-b21 & b22
+$$\begin{vmatrix}c_{11} & c_{12}\\
+c_{21} & c_{22}
+\end{vmatrix}= \begin{vmatrix}a_{11} & a_{12}\\ 
+a_{21} & a_{22}
+\end{vmatrix} \times \begin{vmatrix}b_{11} & b_{12}\\
+b_{21} & b_{22}
 \end{vmatrix}$$
 
 Algoritmo recursivo:
@@ -26,4 +26,4 @@ $T(n) = 8T(n/2) + \Theta (n^2)$
 
 Permite reduzir o numero de multiplicações de 8 para 7, à custa de introduzir um numero constante de adições.
 
-Com $\Theta (n^{\log[b](a)}) = \Theta (n^{2.81})$
+Com $\Theta (n^{\log_b(a)}) = \Theta (n^{2.81})$
