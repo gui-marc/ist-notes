@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASA/Amontoados - Heapsort.md",
+                "file": "ASA/Propagação dinâmica.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASA/Amontoados - Heapsort.md",
+                "file": "ASA/Propagação dinâmica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASA/Amontoados - Heapsort.md",
+                "file": "ASA/Propagação dinâmica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASA/Amontoados - Heapsort.md"
+                "file": "ASA/Propagação dinâmica.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "7a59362493d846d5",
   "lastOpenFiles": [
-    "ASA/Teorema Mestre - Divide & Conquer.md",
     "ASA/Amontoados - Heapsort.md",
-    "SO/Sistema de Ficheiros.md",
-    "SO/Programar  com Ficheiros.md",
+    "ASA/Propagação dinâmica.md",
+    "ASA/Teorema Mestre - Divide & Conquer.md",
     "SO/Funções de Sistema.md",
-    "gist.github.com/jboner/2841832.md",
-    "ASA/Coletânea/Exercicio 1.md",
-    "ASA/Coletânea/colectanea.pdf",
-    "ASA/Aula 1 - 22 nov/Notações.md",
-    "ASA/Aula 1 - 22 nov/p0.pdf"
+    "SO/Programar  com Ficheiros.md",
+    "SO/Sistema de Ficheiros.md",
+    "triangulopascal4.webp.md",
+    "FIS-2/LivroProblemas_2017-2018.pdf",
+    "FIS-2/formulario.pdf",
+    "FIS-2/Aula prática.md"
   ]
 }
