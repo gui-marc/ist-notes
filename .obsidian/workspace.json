@@ -47,11 +47,9 @@
             "id": "85a4cc7297ca4464",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ASA/Projeto ASA.md",
-                "mode": "source",
-                "source": false
+                "file": "ASA/img/Pasted image 20221210195241.png"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASA/Projeto ASA.md",
+                "file": "ASA/img/Pasted image 20221210195241.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASA/Projeto ASA.md",
+                "file": "ASA/img/Pasted image 20221210195241.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASA/Projeto ASA.md"
+                "file": "ASA/img/Pasted image 20221210195241.png"
               }
             }
           }
@@ -173,8 +171,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85a4cc7297ca4464",
+  "active": "2536b4d8d1b63bba",
   "lastOpenFiles": [
+    "ASA/Projeto ASA.md",
     "ASA/Propagação dinâmica.md",
     "ASA/Amontoados - Heapsort.md",
     "ASA/Teorema Mestre - Divide & Conquer.md",
@@ -183,7 +182,6 @@
     "SO/Sistema de Ficheiros.md",
     "triangulopascal4.webp.md",
     "FIS-2/LivroProblemas_2017-2018.pdf",
-    "FIS-2/formulario.pdf",
-    "FIS-2/Aula prática.md"
+    "FIS-2/formulario.pdf"
   ]
 }
