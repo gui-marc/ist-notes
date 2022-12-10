@@ -49,6 +49,8 @@ Por fim, quando tentarmos fazer as combinações com todos de 1x1, adicionaremos
 Fazemos a mesma coisa para os quadrados 4x4 (1 possiblidade) e 3x3 (2 possiblidades) e adicionamos as respetivas entradas na matriz H.
 
 ![[Pasted image 20221210210404.png]]
+> [!danger] O valor na entrada `(3,4)` da matriz era para ser 2 (escrevi errado)
+
 
 Porém, agora a calcular as possiblidades com quadrados de 2x2, podemos otimizar ainda mais.
 

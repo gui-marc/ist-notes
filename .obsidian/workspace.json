@@ -47,9 +47,11 @@
             "id": "85a4cc7297ca4464",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ASA/img/Pasted image 20221210195241.png"
+                "file": "ASA/Projeto ASA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASA/img/Pasted image 20221210195241.png",
+                "file": "ASA/Projeto ASA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASA/img/Pasted image 20221210195241.png",
+                "file": "ASA/Projeto ASA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASA/img/Pasted image 20221210195241.png"
+                "file": "ASA/Projeto ASA.md"
               }
             }
           }
@@ -171,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2536b4d8d1b63bba",
+  "active": "85a4cc7297ca4464",
   "lastOpenFiles": [
+    "ASA/img/organizacao-triangulo-de-pascal.jpg",
+    "ASA/img/Pasted image 20221210195241.png",
+    "ASA/img/Pasted image 20221210195625.png",
     "ASA/Projeto ASA.md",
     "ASA/Propagação dinâmica.md",
     "ASA/Amontoados - Heapsort.md",
     "ASA/Teorema Mestre - Divide & Conquer.md",
     "SO/Funções de Sistema.md",
     "SO/Programar  com Ficheiros.md",
-    "SO/Sistema de Ficheiros.md",
-    "triangulopascal4.webp.md",
-    "FIS-2/LivroProblemas_2017-2018.pdf",
-    "FIS-2/formulario.pdf"
+    "SO/Sistema de Ficheiros.md"
   ]
 }
