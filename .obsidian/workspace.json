@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dca3c6720cee26ff",
+            "id": "0a2680193e927ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SO/Sistema de Ficheiros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be6612a1ba4d0104",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e8299dd8beda14ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASA/Teorema Mestre - Divide & Conquer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a59362493d846d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASA/Amontoados - Heapsort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASA/Amontoados - Heapsort.md",
+                "file": "SO/Programar  com Ficheiros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASA/Amontoados - Heapsort.md",
+                "file": "SO/Programar  com Ficheiros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASA/Amontoados - Heapsort.md"
+                "file": "SO/Programar  com Ficheiros.md"
               }
             }
           }
@@ -161,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a59362493d846d5",
+  "active": "be6612a1ba4d0104",
   "lastOpenFiles": [
-    "ASA/Teorema Mestre - Divide & Conquer.md",
-    "ASA/Amontoados - Heapsort.md",
     "SO/Sistema de Ficheiros.md",
     "SO/Programar  com Ficheiros.md",
-    "SO/Funções de Sistema.md",
-    "gist.github.com/jboner/2841832.md",
-    "ASA/Coletânea/Exercicio 1.md",
-    "ASA/Coletânea/colectanea.pdf",
-    "ASA/Aula 1 - 22 nov/Notações.md",
-    "ASA/Aula 1 - 22 nov/p0.pdf"
+    "SO/Multiprogramação e Programação com processos.md",
+    "SO/Paralelismo - Multitasking.md",
+    "Dump/Teste Exemplo CDI-III.md",
+    "Images/Pasted image 20221207123404.png",
+    "SO/Aula de apoio ao projeto.md",
+    "Images/Pasted image 20221206153714.png",
+    "ASA/Programação Dinâmica.md",
+    "SO/Operações Globais sobre o Sistema de Ficheiros.md"
   ]
 }
