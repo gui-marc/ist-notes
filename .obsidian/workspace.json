@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8299dd8beda14ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASA/Teorema Mestre - Divide & Conquer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a59362493d846d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASA/Propagação dinâmica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85a4cc7297ca4464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASA/Projeto ASA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"

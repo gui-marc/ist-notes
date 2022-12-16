@@ -90,7 +90,9 @@ Para qualquer ficheiro aberto, o core mantem um cursor
 
 O cursor pode ser alterado explicitamente pelo programa com o comando:
 
-`int lseek(int fd, off_t offset, int whence)`
+```c
+int lseek(int fd, off_t offset, int whence)
+```
 
 __Offset__: posição do cursor em relação ao inicio
 __Whence__: posição de referência -> o offset conta a partir daqui.
